@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Ritter! 👋
 
-Sou Engenheiro de Software com foco em backend. Também gosto e busco estar por dentro de temas envolvendo Inteligência Artificial e Ciência de Dados.
+Engenheiro de Software com foco em backend. Também gosto e busco sempre estar por dentro de temas envolvendo Inteligência Artificial e Ciência de Dados.
 
 ## Habilidades
 
@@ -11,7 +11,9 @@ Sou Engenheiro de Software com foco em backend. Também gosto e busco estar por 
 
 ## Projetos Notáveis
 
-- 🔍 **Previsão de Resultados de Tênis**: Trabalhando nisso atualmente para por em prática as linguagens Go e Python, bem como conceitos importantes de Machine Learning.
+- 🥎 **Previsão de Resultados de Tênis**: Trabalhando nisso atualmente para por em prática as linguagens Go e Python, bem como conceitos importantes de Machine Learning.
+- 💲 **Obtenção de Dados Criptomoedas e Ações**: Utilizo esse projeto para me familiarizar com a linguagem Go, bem como aprender sobre conceitos de investimentos financeiros importantes.
+- 🧳 **Sistema Gerenciador de Viagens**: Responsável pelo Backend e modelagem do banco de dados PostgreSQL. Utilizei a linguagem Typescript e integrações gerais para o CRUD.
 
 ## Interesses Pessoais
 
