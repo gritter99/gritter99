@@ -11,9 +11,9 @@ Engenheiro de Software com foco em backend, porém já iniciando no frontend. Ta
 
 ## Projetos Notáveis
 
-- 🥎 **Previsão de Resultados de Tênis**: Trabalhando nisso atualmente para por em prática as linguagens Go e Python, bem como conceitos importantes de Machine Learning.
-- 💲 **Obtenção de Dados Criptomoedas e Ações**: Utilizo esse projeto para me familiarizar com a linguagem Go, bem como aprender sobre conceitos de investimentos financeiros importantes.
-- 🧳 **Sistema Gerenciador de Viagens**: Responsável pelo Backend e modelagem do banco de dados PostgreSQL. Utilizei a linguagem Typescript e integrações gerais para o CRUD.
+- 🥎 **Análise de jogadores de Tênis**: Trabalhando nisso atualmente para por em prática os aprendizados e testar a linguagem Python como backend, bem como conceitos importantes do framework Angular para o frontend. Também estou aproveitando para aprimorar minhas habilidades de análise de dados.
+- 💲 **Obtenção de Dados Criptomoedas e Ações**: Utilizei esse projeto para me familiarizar com a linguagem Go, bem como aprender sobre conceitos de investimentos financeiros importantes. O projeto não foi muito pra frente por conta de todas as api's serem caras para acessar e etc. Porém, serviu para ter primeiros contatos com bancos de série temporal (InfluxDB) e cache (Redis)
+- 🧳 **Sistema Gerenciador de Viagens**: No projeto Travelly, fui responsável pelo Backend e modelagem do banco de dados PostgreSQL. Utilizei a linguagem Typescript com o framework Node.js e integrações gerais para o CRUD.
 
 ## Interesses Pessoais
 
