@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Ritter! 👋
 
-Engenheiro de Software com foco em backend, porém já iniciando no frontend. Também gosto e busco sempre estar por dentro de temas envolvendo Inteligência Artificial e Ciência de Dados.
+Engenheiro de Software com foco em backend, porém já iniciando no frontend. Também gosto e busco sempre estar por dentro de temas envolvendo Inteligência Artificial.
 
 ## Habilidades
 
